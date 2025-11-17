@@ -1,7 +1,4 @@
------------------------------------------------------------
-| Mohamed Elmarzougui                                      |
-| Full-Stack Developer                                     |
-| Building fast and scalable web applications.             |
-|                                                          |
-| [ View Resume ]   [ Contact Me ]                         |
------------------------------------------------------------
+Mohamed Elmarzougui  
+Full-Stack Developer  
+
+[ View Resume ](https://github.com/elmarzmo/elmarzmo.github.io/blob/main/Mohamed_Elmarzougui_Resume%5B1%5D.pdf)

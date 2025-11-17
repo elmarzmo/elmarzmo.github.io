@@ -29,7 +29,7 @@ An AI agent learns to navigate an 8×8 maze using reinforcement learning (Q-lear
 ---
 
 ## Resume / Skills
-[View Resume](https://github.com/elmarzmo/elmarzmo.github.io/blob/main/Mohamed_Elmarzougui_Resume%5B1%5D.pdf)
+[View Resume](https://github.com/elmarzmo/elmarzmo.github.io/blob/main/MohamedElmarzouguiResume.pdf)
 
 **Skills:**  
 - Programming: Python, JavaScript, TypeScript, HTML, CSS  

@@ -39,7 +39,7 @@ An AI agent learns to navigate an 8×8 maze using reinforcement learning (Q-lear
 ---
 
 ## Contact
-- [Email](mailto:Mohamed1elmarzougui@gmail.com)  
+- [Email](mailto:Mohamed1elmarzougui@gmail.com) : Mohamed1elmarzougui@gmail.com 
 - [GitHub](https://github.com/elmarzmo)
 
 ---
